@@ -32,7 +32,7 @@ Made for the Creality V1 mainboard with a ATmega1284P controler
 12. unplug everything, you now only need your 3d Printer
 13. swich the only jumper on the board to the USB state
 14. plug in your board again / turn on your printer
-15. Open the Marlin folder with the "Marlin Firmware" plugin in VScode
+15. Open the "Marlin-X.X.X creality CR-10" folder with the "Marlin Firmware" plugin in VScode
 16. in case the ABM pannes doesnt pop up, open it by clicking "show ABM Panel" in the "Auto build Marlin" Menu
 17. Click on the Build butten next to "melzi_optiboot_optimized"
 18. wait for the build to complete
@@ -48,7 +48,7 @@ Finished!
 
 1.swich the only jumper on the board to the USB state
 2. plug in your board again / turn on your printer
-3. Open the Marlin folder with the "Marlin Firmware" plugin in VScode
+3. Open the "Marlin-X.X.X creality CR-10" folder with the "Marlin Firmware" plugin in VScode
 4. in case the ABM pannes doesnt pop up, open it by clicking "show ABM Panel" in the "Auto build Marlin" Menu
 5. Click on the Build butten next to "melzi_optiboot_optimized"
 6. wait for the build to complete
